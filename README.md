@@ -15,7 +15,7 @@ Permitir em um curto período de tempo agendar os clientes e facilitar consulta 
 
 ## Produto
 
-Site para agendar a vinda dos clientes á empresa assumindo papeis de gestão dos mesmos de forma eficiente.
+Site para agendar a vinda dos clientes á empresa assumindo papeis de gestão dos mesmos de forma eficiente desenvolvido no padrão SPA.
 
 ## Requisitos
 
